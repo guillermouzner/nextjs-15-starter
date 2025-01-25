@@ -1,4 +1,4 @@
-## Getting Started with kamipay-web-app-v3
+## Getting Started
 
 First, run the development server:
 
